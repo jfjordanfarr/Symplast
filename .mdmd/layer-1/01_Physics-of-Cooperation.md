@@ -69,24 +69,23 @@ The world is divided into semi-permanent weather cells. Each biome is not just a
 
 ---
 
-## 3.0 THE UNIVERSAL TETHER ("THE SYMPLAST LINK")
+## 3.0 THE TENSEGRITY WEB ("THE SYMPLAST LINK")
 
 The Tether is not just a rope. It is the **Umbilical Chord**. It is the physical manifestation of the game's social contract.
 
 ### 3.1 Mechanical Implementation
 * **The Hardpoint:** Every vehicle has a standardized electromagnetic winch point (The "Universal Port").
 * **The Physics Joint:**
-    * It is not a rigid rod (which feels fake).
-    * It is a **Damped Spring Joint** with a variable break force. It has "slack" and "tension."
-    * *Snapping:* If two vehicles pull in opposite directions with force > Break Threshold, the cable snaps. This creates tension (gameplay) during panic situations.
+    * It is not a rigid rod (which feels fake). It is a dynamic spring-damper system.
+    * **Structural Interdependent Failure:** It’s not just about sharing fuel. It’s about **Load Bearing**.
+    * **"The Frame Snap":** If the Convoy encounters a high-torque event (Mud Surge), the stress isn't applied to one car; it is distributed. If the players are out of sync (some pushing, some dragging), the *Tether* doesn't break—the *Chassis* breaks.
 
-### 3.2 The Resource Bridge (Vascularity)
-When tethered, the two vehicles effectively become one system.
-* **Fluid Transfer:** Pipes extend along the cable. Fuel and Water automatically balance. If Vehicle A has 100% Fuel and Vehicle B has 0%, the system equalizes them to 50/50 over time.
-    * *Override:* Players can set "Valves" to stop this if they need to quarantine a resource.
-* **Data Sharing (The Nervous System):**
-    * **Shared Fog of War:** If the Scout (Aerial) is tethered to the Hauler (Ground), the Hauler sees what the Scout sees on their map.
-    * **Damage Reports:** The Hauler can see a warning light: "Scout Engine Overheating."
+### 3.2 The "Muscle" Mechanic (Galley Rower)
+* **Concept:** Coordinated forward pulses (Temporal Summation) create exponential torque.
+* **The Mechanic:** A convoy can punch through mud that would mire a single engine if they accelerate in perfect sync.
+* **The Resource Bridge (Vascularity):**
+    * **Fluid Transfer:** Pipes extend along the cable. Fuel and Water automatically balance.
+    * **Data Sharing:** Shared Fog of War and Damage Reports.
 
 ### 3.3 The "Right of Exit" (Disengagement)
 * **The Button:** A physical emergency release lever in the cockpit.

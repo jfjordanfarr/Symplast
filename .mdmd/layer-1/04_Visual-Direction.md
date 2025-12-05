@@ -19,12 +19,12 @@ This is the default view through the windshield.
     * **Palette:** Desaturated. Browns (Mud), Greys (Slate/Storm), and Faded Safety Orange (Oxidized Paint).
 * **Emotional Effect:** Claustrophobia, vulnerability, heaviness.
 
-### 1.2 Mode B: The Sensor Overlay (The "Blue Prince" Layer)
-This is the Augmented Reality view activated by the Lidar/Radar systems.
+### 1.2 Mode B: The Sensor Overlay (The Visual Unifier)
+This is the Augmented Reality view activated by the Lidar/Radar systems. It is the critical tool that makes the visual chaos of Mode A legible.
 * **Visual Target:** *Blue Prince* / Architectural CAD / 1980s Vector Graphics.
 * **Rendering Tech:** Post-Process Edge Detection, Depth-Based Color Banding, Flat Shading (Unlit).
 * **Key Elements:**
-    * **Clarity:** All fog and rain are removed.
+    * **The Unifier:** When active, the chaotic colors (pink ships, rusted barges) vanish. Everything becomes **Topography and Stress**.
     * **The Grid:** The chaotic mud terrain is rendered as a clean, wireframe mesh.
     * **Data Visualization:** Wind vectors appear as white streamlines. Stress points on the chassis glow red.
     * **Palette:** High Contrast. Deep Blue background, White vector lines, Cyan data points.
@@ -57,17 +57,29 @@ We use OpenStreetMap (OSM) data as a gameplay layer.
 
 ---
 
-## 3.0 THE VEHICLE: "NASA MEETS CATERPILLAR"
+## 3.0 THE VEHICLE: MATERIAL TRUTH (FORM FOLLOWS PHYSICS)
 
-The vehicles must bridge the gap between "High Tech" (The Nucleus) and "Low Tech" (The Membrane).
+The vehicles are not defined by a style guide, but by **Material Properties**. The future is not a uniform army; it is a chaotic coral reef.
 
-### 3.1 Materiality
-* **The "Scavenger" Look:** 80% of the vehicle is industrial. Heavy steel, canvas insulation, ceramic heat tiles, yellow safety rails.
-    * *Texture Strategy:* We use **Generative Texturing** (AI-assisted) to create unique "Rust Patterns" and "Repair Scars" for every part. A "Gen 3" engine looks older and more patched than a "Gen 1" engine.
-* **The "Nucleus" Look:** 20% of the vehicle is pristine. The Sensors, the Reactor Core, and the Computer Terminals are clean, sealed, black-box tech (The "UFO" aesthetic).
-* **Contrast:** The beauty comes from seeing a pristine, glowing holographic interface bolted onto a rusting, leaking steel bulkhead.
+### 3.1 The Material Palette
+Instead of enforcing "Industrial" or "Sci-Fi," we enforce the physical properties of the resource used.
+* **Lignin (Grown Wood):** Renders with grain and knots. Absorbs water (darkens in rain). Burns. *Aesthetic: Wicker / Grown.*
+* **Plastiglomerate (Recycled):** Renders with subsurface scattering. Vibrant colors (bleached by sun). Melts. *Aesthetic: Injection Molded / Punk.*
+* **Oxidized Steel (Scavenged):** Heavy, rusted, pitted. High tensile strength. *Aesthetic: Brutalist / Heavy Metal.*
+* **Aerogel/Glass (High Tech):** Translucent, fragile, internal refraction. *Aesthetic: Crystalline / Fragile.*
 
-### 3.2 Scale & Animation
+### 3.2 The Biomimetic Palette (Convergent Evolution)
+Players will naturally evolve shapes based on function, creating a "Biomimetic" diversity.
+* **The Leaf (Solar Harvesters):** Wide surface areas, fractals, transparent domes. *Result:* A "Crystal Palace" aesthetic.
+* **The Bone (Heavy Haulers):** Trusses, thick plating, compact shapes. *Result:* An "Industrial Brutalist" aesthetic.
+* **The Skin (Aerostats):** Tension fabrics, balloons, tensile wires. *Result:* A "Nomadic Yurt" aesthetic.
+
+### 3.3 Visual Diversity & Safety (The Ghost Layer)
+* **The Freedom:** If a player wants to paint their ship hot pink with anime decals, *let them.* It implies they found a cache of "Ancient Pigments."
+* **The Filter:** The local LLM (Gemma 3) ensures content is safe (no hate speech/NSFW) without needing "Art Police."
+* **The Result:** A **Punk/Collage** aesthetic that feels authentic to a scavenger civilization. We do not force everyone to be brown and grey.
+
+### 3.4 Scale & Animation
 * **The "Heavy" Animation Set:**
     * Suspension does not just bounce; it groans.
     * Deploying a "Solar Wing" takes 10 seconds. You see the hydraulics struggle. You hear the servo motors whine.
@@ -75,20 +87,21 @@ The vehicles must bridge the gap between "High Tech" (The Nucleus) and "Low Tech
 
 ---
 
-## 4.0 THE USER INTERFACE: DIEGETIC & TACTILE
+## 4.0 THE USER INTERFACE: TACTILE & DIEGETIC
 
 We avoid "Video Game UI" (floating health bars) in favor of **Instrumentation**.
 
-### 4.1 The Transcriptome Editor (The CAD Station)
+### 4.1 The Cockpit (Manual Priming)
+* **Tactility:** Buttons are physical. To activate the "Winch," the player character's hand flips a safety cover and presses a toggle.
+* **The "Click":** Sound design is crucial. Heavy, satisfying mechanical clicks.
+* **Manual Priming:** To start the engine, you don't press "E". You look at the dashboard, flip the "Fuel Pump" switch, wait for pressure to build (needle gauge), then press "Ignition".
+* **Haptic Feedback:** The UI shakes when the engine struggles. Warnings are auditory (Klaxons), not just visual pop-ups.
+
+### 4.2 The Transcriptome Editor (The CAD Station)
 When a player edits a blueprint, the UI shifts to a **Technical Drafting Table**.
 * **Visual Style:** ISO Standard fonts, blueprint grids, dimension lines.
 * **The "Signature":** The bottom right corner of the screen always displays the **Block Chain Header**: *Author: [User], Gen: [X], Hash: [0x123...]*.
 * **Safety Feedback:** If the local AI flags a design, the error appears as a "Compiler Error" in a terminal window: *ERROR 403: Geometry Non-Compliant with Safety Protocols.*
-
-### 4.2 The Dashboard (The Cockpit)
-* **Tactility:** Buttons are physical. To activate the "Winch," the player character's hand flips a safety cover and presses a toggle.
-* **Monitors:** CRT or OLED screens embedded in the dash display the "Digital" info (Fuel, Heat, Map).
-* **Haptic Feedback:** The UI shakes when the engine struggles. Warnings are auditory (Klaxons), not just visual pop-ups.
 
 ---
 

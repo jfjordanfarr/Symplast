@@ -1,8 +1,8 @@
 # DESIGN BIBLE: PROJECT SYMPLAST
 
 **High Concept:** A cooperative vehicle-survival sandbox set on a high-energy future Earth.
-**Core Thesis:** "Autonomy is the price you pay for longevity."
-**The Loop:** Players pilot modular vehicles that must physically latch together ("Tether") to overcome atmospheric drag and weather events, forming temporary, mobile cities.
+**Core Thesis:** "Survival is a Manual Override. The storm wants to kill you; your machine wants to kill itself to save the frame. You are the mediator."
+**The Loop:** Players pilot modular vehicles that must physically latch together ("Tether") to overcome atmospheric drag and weather events, forming temporary, mobile cities. **The Maintenance of Sanity:** Players do not just pilot; they must physically move through their ship to "Prime" inert systems and "Chaperone" (Reset) systems that are becoming hyperexcitable/pathological.
 
 ---
 
@@ -50,8 +50,8 @@ Players build their "Cell" based on how they wish to interact with the terrain.
 
 ### 2.2 Internal Systems (Organelle Logic)
 Players manage internal "heat" and "waste" akin to cellular metabolism.
-* **The Reactor (Mitochondria):** Generates power but produces "Waste Heat" (ROS). If not vented, it damages the hull.
-* **The Fabricator (Ribosome):** Converts raw scrap into parts.
+* **The Inert Core (Mitochondria):** Generates power but requires manual "Priming" to start. Produces "Waste Heat" (ROS).
+* **The Ribosome (Fabricator):** Prints new parts from blueprints (Transcripts).
 * **The Cargo (Vacuole):** Storage for resources.
 * **The Livestock (Microbiome):** Goats/Chickens kept in bays. They consume waste biomass (weeds) and produce high-density food (proteins), acting as a biological recycling loop.
 
@@ -106,15 +106,14 @@ To prevent content bloat and simulate evolution:
 
 [05_Metagame-Progression.md](./05_Metagame-Progression.md)
 
-**Goal:** Emergent altruism through survival mechanics.
+**Goal:** Governance via Physics. The simulation does not appoint leaders; it simulates the drag of indecision.
 
-### 5.1 The "Right of Exit"
-* **No Forced Collectivism:** A player can always detach their winch.
-* **The Consequence:** Leaving the convoy restores agency (you steer yourself) but increases difficulty (fuel costs skyrocket, predator vulnerability increases).
-* **The Result:** Society is a choice made constantly because it is objectively better than the alternative.
+### 5.1 The Physics of Disagreement
+* **The Tether as Contract:** Connection requires physically opening valves. Trust is a resource flow.
+* **The Drag of Dissent:** If a player refuses to share or align, they become "Heavy" (Parasitic Drag). The convoy slows down.
+* **The Resolution:** The group must either convince the dissenter or physically pull the "Manual Release Lever" to cut them loose.
 
-### 5.2 The End Game: The Arcology
-* **Phased Growth:**
-    * *Phase 1 (Nomad):* Scavenging, surviving point-to-point.
-    * *Phase 2 (Convoy):* Specialized vehicles tethered together.
-    * *Phase 3 (City):* The convoy finds a permanent "Safe Harbor" (e.g., a mountain valley). They lock down. Terrestrial units become foundations. Aerial units become towers. They transition from "Migrating" to "Terraforming."
+### 5.2 The End Game: The Commonwealth
+* **From Survival to Stability:** The goal is not to escape, but to stabilize the weather (Terraforming).
+* **Public Goods:** Advanced groups build "Climate Stabilizers" that benefit everyone in the region, creating "Safe Zones" that attract new players.
+* **Reputation as Currency:** Wealth is defined by how many people are willing to tether to you.

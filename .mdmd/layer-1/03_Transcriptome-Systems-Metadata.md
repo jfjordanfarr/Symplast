@@ -55,27 +55,21 @@ If a bad actor bypasses the local check (modded client), the **Network Immune Sy
 
 ---
 
-## 3.0 ENVIRONMENTAL OBSOLESCENCE (THE "mRNA" MECHANIC)
+## 3.0 ENVIRONMENTAL OBSOLESCENCE (MALADAPTATION)
 
-To prevent the "Meta" from stagnating (e.g., everyone using the "V1 Engine" forever), blueprints suffer from **Functional Decay** based on the world state.
+To prevent the "Meta" from stagnating, blueprints don't just "decay." They become **Pathological**.
 
-### 3.1 The "Fitness" Score
-Every blueprint has hidden "Fitness Stats" calculated against the **Current Weather**.
-* **Scenario:**
-    * *Gen 1 Engine* was designed during "The Heat Dome" (High Temp, Low Humidity). It has massive Radiators.
-    * *Current Weather:* The world shifts to "The Wet Zone" (Mud, Rain).
-* **The Decay:**
-    * The Gen 1 Engine is now **Maladaptive**.
-    * Its "Efficiency" stat drops by 40% because the open radiators clog with mud.
-* **The Visual:** In the Fabricator menu, the blueprint glows **Dim/Grey** (Low Expression).
+### 3.1 The "Fitness" Score (Contextual Validity)
+* **Scenario:** A "Dry Zone" moisture trap script works great in the desert.
+* **The Shift:** In the "Wet Zone," that same script becomes a logic bomb, trying to dehumidify the ocean until it burns out the pumps.
+* **The Visual:** In the Fabricator menu, the blueprint glows **Red** (Pathological/Dangerous).
 
-### 3.2 Mutation (Forced Innovation)
-Players cannot simply "Repair" the blueprint. They must **Mutate** it.
+### 3.2 The Spliceosome (The Fix)
+* **The Mechanic:** The player must act as the **Spliceosome**.
 * **The Loop:**
-    1.  Player opens the "Gen 1 Engine" in the Editor.
-    2.  Player adds "Mud Filters" and removes the "Extra Radiators."
-    3.  Player saves as "Gen 2 Engine (Wet Season)."
-* **The Result:** The new blueprint has High Fitness. It glows **Bright** (High Expression).
+    1.  Player physically goes to the terminal.
+    2.  They identify the "Maladaptive Intron" (the moisture script).
+    3.  They "cut out" the code block to save the pump.
 * **The Lesson:** Technology is not static. Maintenance requires adaptation.
 
 ---
@@ -91,14 +85,22 @@ We cannot show the player 50,000 blueprints. We use "Epigenetic Silencing" to ma
     * *Access Cost:* Retrieving a blueprint from the Deep Archive takes time (Simulated Data Retrieval). It costs "Compute" resources.
     * *Why:* This forces players to curate their "Local Deck" of blueprints. "Do we keep the Snow Tires in the cache? No, it's 50 degrees outside. Archive them."
 
-### 4.2 The Economy of Citations
-* **Currency:** "Prestige."
-* **Earning:** You earn Prestige when others *use* your blueprints.
-* **Spending:** You spend Prestige to **Boost** the priority of a request.
-    * *Example:* The Convoy is starving. You need a "High-Efficiency Algae Tank" *now*. You spend Prestige to broadcast a "Request for Mutation" to the network.
-    * *The Architect:* A designer player sees the bounty, designs the tank, and claims the Prestige.
+### 4.2 The Economy of Citations (Proof of Work)
+* **No "Likes":** We explicitly reject vanity metrics. You cannot "Like" a blueprint.
+* **The Metric:** You can only **Cite** it.
+    * *Action:* A Citation is generated when a player *prints* and *installs* your design.
+    * *Cost:* Citing costs resources. It is a bet on survival.
+* **The Notification:** "Your 'Gen 3 Rotor' is currently active in 14 convoys."
+* **The Result:** High Citation count = High Reliability. It is the fossil record of utility.
 
-### 4.3 The "Seed" Mechanic (P2P Distribution)
+### 4.3 The "Prestige" (The License to Lead)
+* **Currency:** "Prestige" is the aggregate of your Citations and your "Uptime" (Manual Activations).
+* **The Stack Overflow Model:**
+    * *Junior Dev (Low Prestige):* Can fix tires, but cannot edit the Nucleus Script.
+    * *Senior Architect (High Prestige):* When they propose a course correction, the group listens because 500 people are running their code.
+* **Spending:** You spend Prestige to **Boost** the priority of a request (e.g., "We need a new Algae Tank design NOW").
+
+### 4.4 The "Seed" Mechanic (P2P Distribution)
 * To keep the network decentralized (and save server costs), blueprints are distributed via **BitTorrent-style Seeding**.
 * **The Mechanic:** To use a blueprint, your Convoy must "Host" it.
 * **The Inventory:** Your ship has a limited "Data Drive." You can only host ~100 active blueprints.
