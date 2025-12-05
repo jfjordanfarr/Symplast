@@ -56,22 +56,19 @@ How do large groups function without an assigned Commander? Through **Function**
 We do not punish "Griefing" with bans. We allow the physics to make toxic behavior unsustainable.
 
 ### 3.1 The "Cancer" Drag
-* **The Situation:** A player refuses to share resources but stays tethered to leech power.
+* **The Situation:** A player refuses to share resources but stays tethered to leech power. Or, they are **Infected** with Phantom Mass.
 * **The Consequence:** They become **Heavy**.
-    * A full cargo hold adds mass.
+    * A full cargo hold adds mass. A Prion script adds "Phantom Mass."
     * The physics engine calculates this Drag. The convoy slows down. Fuel efficiency drops for *everyone*.
-* **The Social Correction:** The group notices the drag. They ask the player to share. The player refuses.
-* **The Action:** The neighbor physically pulls the **Manual Release Lever**.
-    * The leech is dropped.
-    * The convoy speeds up immediately.
-    * *The Lesson:* Parasitism is physically rejected by the host.
+* **The Diagnostic:** The Convoy Leader scans the heavy ship.
+    * *Result A:* "Cargo Full" (Greed). -> **Cut Tether.**
+    * *Result B:* "CPU Load 100% / Mass Error" (Infection). -> **Initiate Rescue.**
 
-### 3.2 The Mutiny (The Fork)
-* **The Situation:** The group disagrees on the destination. Half want to go to the Mountains; half want the Coast.
-* **The Resolution:** There is no vote. There is **Fission**.
-    * The convoy physically uncouples in the middle.
-    * One chain goes Left. One chain goes Right.
-    * This is the "Fail Fast" mechanism. Groups that cannot align mentally will literally align physically in different directions.
+### 3.2 The Rescue Raid
+* **The Mission:** Board the heavy ship not to fight aliens, but to **Pull the Plug**.
+* **The Obstacle:** The ship's internal automated defenses (Turrets/Doors) might be running the same corrupt "Paranoid" script, treating the rescuers as intruders.
+* **The Goal:** Reach the Engine Room and hit the **Hard Reset**. The Phantom Mass vanishes. The convoy surges forward.
+* **The Reward:** You save the player *and* the mass of the ship. You earn massive "Citation/Prestige" as a **System Healer.**
 
 ---
 

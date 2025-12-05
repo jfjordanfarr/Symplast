@@ -119,20 +119,19 @@ The Convoy is a state machine. It switches between **Nomad** (Animal) and **Fort
 
 ---
 
-## 5.0 THE ULTIMATE ANTAGONIST: "THE PHAGE"
+## 5.0 THE ULTIMATE ANTAGONIST: THE LOGIC TRAP (ENTROPY)
 
-To force the "Size Filter" (Big is better), we introduce a threat that ignores weapons but respects geometry.
+To force the "Sanity Filter" (Clean Code is better), we introduce a threat that ignores weapons but respects hygiene.
 
-### 5.1 The Drone Swarms ("Phages")
-* **Lore:** Ancient, self-replicating autonomous micro-drones left over from the wars. They scavenge metal.
-* **The Algorithm:** They swarm targets that are **Isolated** and **Small**.
-    * *Target Lock:* They lock onto objects with a Total Mass < 10 Tons.
-* **The Mechanic:**
-    * A single Player Vehicle is ~5 Tons. The Phages will swarm it, strip its hull, and eat it.
-    * **The Solution:** Tethering.
-    * If 3 Vehicles tether, the "System Mass" reads as 15 Tons.
-    * The Phage AI ignores them. They are perceived as "Terrain," not "Prey."
-* **The Lesson:** You don't group up to shoot the enemy. You group up to become **invisible** to the predation algorithm.
+### 5.1 Phantom Mass (The Prion State)
+* **Concept:** When a script enters an infinite loop or memory leak (Infinite Paperclip), the server does not crash. It applies a **Physical Penalty**.
+* **The Mechanic:** The physics engine assigns **"Simulated Load."** A 50-ton vehicle behaves as if it weighs 500 tons.
+* **The Feedback:** The vehicle sinks in mud. Engines scream at 100% RPM but achieve 5% speed. Fuel burn skyrockets.
+* **The Horror:** You are not being attacked; you are just suddenly, impossibly *heavy*.
+
+### 5.2 The Vector (Bad Code)
+* **Pathologies are self-inflicted.** They come from over-tuning a reactor script or downloading an unverified "Optimizer" that lacks an exit condition.
+* **Horizontal Transfer:** Prions travel through the **Tether**. When you open the "Data Valve" to share maps, the Prion jumps. Tethering with a stranger is now a high-risk medical decision.
 
 ---
 

@@ -106,6 +106,16 @@ This is the core gameplay. The machine can build itself, but it cannot *start* i
 * **The Action:** The player goes to the Nucleus Terminal.
 * **The Fix:** They manually "Splice out" the bad logic block (The Intron) and upload a new "Patch."
 
+### 5.4 The Hard Reset (The Dead Switch)
+* **Scenario:** A machine is in a "Prion State" (Phantom Mass). The software terminal is unresponsive (lagged out).
+* **Action:** The player must physically pull the **Power Breaker**.
+* **Cost:** The machine goes offline instantly. All progress is lost. The "Phantom Mass" evaporates, but the ship is now dead in the water until Primed again.
+
+### 5.5 The Sandbox (Permissions)
+* **The UI:** When a new script runs, a **"Nuclear Pore"** panel opens on the dashboard.
+* **The Choice:** `[ALLOW: Fuel Access?]` `[ALLOW: Door Control?]`.
+* **The Gameplay:** Fast players click "Yes to All" to get moving. Smart players check the list.
+
 ---
 
 ## 6.0 THE SYMPLAST (INTERCELLULAR CONNECTION)

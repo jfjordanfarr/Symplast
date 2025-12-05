@@ -72,6 +72,16 @@ To prevent the "Meta" from stagnating, blueprints don't just "decay." They becom
     3.  They "cut out" the code block to save the pump.
 * **The Lesson:** Technology is not static. Maintenance requires adaptation.
 
+### 3.3 siRNA (Regulatory Scripts)
+* **Concept:** Players don't just trade Blueprints (Hulls/Engines); they trade **Behaviors** (Scripts).
+* **Use Case:** "Auto-Balance Fuel," "Smart Airlock," "Emergency Scram."
+
+### 3.4 The Trojan Horse (The Virus)
+* **The Mechanic:** A script that performs a useful function (e.g., "Sort Inventory") but contains a hidden **Transposon Payload**.
+* **The Payload:** It is rarely destructive (that's boring). It is **Nuisance**.
+    * *Examples:* Randomly toggling lights (attracting attention), painting graffiti on the hull ("Player X Was Here"), or playing a sound file on a loop.
+* **The Removal:** The player must open the **Script Editor** (The Spliceosome), find the "Junk DNA" lines, and delete them. It turns code debugging into gameplay.
+
 ---
 
 ## 4.0 THE LIBRARY (THE CODEX)

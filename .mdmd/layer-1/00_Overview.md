@@ -1,8 +1,8 @@
 # DESIGN BIBLE: PROJECT SYMPLAST
 
-**High Concept:** A cooperative vehicle-survival sandbox set on a high-energy future Earth.
+**High Concept:** A cooperative vehicle-survival sandbox set on a high-energy future Earth. The enemy is Entropy. It manifests as **Phantom Mass** (logic bloat) and **Viral Scripts** (malicious automation). Survival requires rigorous Information Hygiene.
 **Core Thesis:** "Survival is a Manual Override. The storm wants to kill you; your machine wants to kill itself to save the frame. You are the mediator."
-**The Loop:** Players pilot modular vehicles that must physically latch together ("Tether") to overcome atmospheric drag and weather events, forming temporary, mobile cities. **The Maintenance of Sanity:** Players do not just pilot; they must physically move through their ship to "Prime" inert systems and "Chaperone" (Reset) systems that are becoming hyperexcitable/pathological.
+**The Loop:** Players pilot modular vehicles that must physically latch together ("Tether") to overcome atmospheric drag and weather events, forming temporary, mobile cities. **The Maintenance of Sanity:** Players do not just pilot; they must physically move through their ship to "Prime" inert systems and "Chaperone" (Reset) systems that are becoming hyperexcitable/pathological. **Information Hygiene:** Players must vet the blueprints they download. A "High-Efficiency" reactor script might actually be a **Prion**—a hyperexcitable loop that burns out your core to optimize a single metric.
 
 ---
 
